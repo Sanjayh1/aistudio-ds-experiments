@@ -33,5 +33,5 @@ Find the best experiments to showcase the main features of the AIS. Browse the c
 
 ---
 
-### 06. [LLM Experiments 🦙](LLM_experiments/)
+### 06. [LLM Experiments ](LLM_experiments/)
 *How about showcasing the most popular LLMs within AI Studio? Here you'll find the best experiments using the latest technologies in the field of LLMs like LLaMa 2 and Pythia, in addition to orchestrators like LangChain!*
