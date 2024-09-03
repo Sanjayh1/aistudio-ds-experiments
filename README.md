@@ -1,4 +1,4 @@
-![alt](images/catalog-img.png)
+
 # Catalog of experiments for AI Studio demonstrations
 
 ### Welcome! 🙂
