@@ -20,7 +20,7 @@ Find the best experiments to showcase the main features of the AIS. Browse the c
 ### 03. [Audio Experiments ](Audio_Experiments/)
 *What about audio experiments on AI Studio? Here you'll find the best experiments involving the training and inference of deep learning models with audio-related tasks, such as voice-to-text and text-to-voice conversion. Recommended for showcasing features related to GPU, Monitor Table, NEMO (Nvidia's Experiment Management System), and Nvidia technology. TOffers models for inference via Hugging Face.*
 
-#### **💚 Offers NVIDIA NGC examples**
+#### **Offers NVIDIA NGC examples**
 ---
 
 ### 04. [Computer Vision Experiments ](Computer_Vision/)
