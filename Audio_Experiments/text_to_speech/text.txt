@@ -1,0 +1,1 @@
+Hello, this is an example of text to speech. It is running at the AI Studio plataform, a HP tool.
